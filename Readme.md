@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 ### 1.1 Purpose
-The purpose of this document is to build on issue tracker (bug tracker) system to manage issues and project members to ease the issue management. The main reason to build it is to learn and practice .NET, and improve my front-end skills as well.
+The purpose of this document is to build on issue tracker (bug tracker) system to manage issues and project members to ease the issue management. The main reason to build it is to learn and practice .NET in 2021, and improve my front-end skills as well.
 
 ### 1.2 Document Conventions
 This docement uses the following conventions.
@@ -15,10 +15,10 @@ TS | Typescript
 RN | React Native
 
 ### 1.3 Intended Audience
-This project is a demo for tracking issues in a project. It's useful for people who want to deploy a simple issue tracker system in their local enviorment. And also is welcome for anyone who wants to study .NET and React. I will be very appericate if you give me advices and point out my mistakes.
+This project is a open source demo for tracking issues in a project. It's useful for people who want to deploy a simple issue tracker system in their local enviorment. And also is welcome for anyone who wants to study .NET and React, or modify the code. I will be very appericate if you give me advices and point out my mistakes.
 
 ### 1.4 Scope
-The purpose of this issue tracker management system is to ease the issue management. We will have database to save projects and issues, and also multi-end client for all kinds of platforms. Separation of front-end and back-end will easily support users to log in and manage their projects. Above all, we hope to use this project to track my own projects and share my issues when I build this up. 
+The purpose of this open source issue tracker management system is to ease the issue management. We will have database to save projects and issues, and also multi-end client for all kinds of platforms. Separation of front-end and back-end will easily support users to log in and manage their projects. I plan to code 1 hours every day, 4 months to build apis using .NET, 4 months to build web application using React, and 3 months to build mobile applications using React-Native. I plan to start this project at the begining of Febrary, and finish it before 2021. Above all, we hope to use this project to track my own projects and share my issues when I build this up. 
 
 ## 2. Overall Description
 ### 2.1 Product Perspective
