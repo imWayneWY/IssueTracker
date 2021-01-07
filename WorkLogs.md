@@ -24,3 +24,7 @@ OutLine of SRS
 Finish the product features for SRS. Begin to learn SQL design.
 As a FrontEnd developer, I just realize that DB Design is quite interesting and important for a project.
 I have experiences in DocumentDB like MongoDB, but Relational DB has lots differences.
+
+## 6th, Jan
+Finish SRS
+Study relational DB.
