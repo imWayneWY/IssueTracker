@@ -65,6 +65,19 @@ This project will use docker to make it easy to deploy. However, Sql Server is s
   
 ## 3. System Features
 ### 3.1 Functional Requirements
+  + Project could been created or removed by Admin
+  + Dev could use this system to track the issues
+  + Dev could create or close issues
+  + Visitors could view the progress of the project
 ### 3.2 External Interface Requirements
+  + All kinds of devices which can use web browser
+  + Mobile devices
+  + Desktop devices
 ### 3.3 System Features
+  + Windows
+  + Macos
+  + IOS
+  + Android
 ### 3.4 Nonfunctional Requirements
+  + Maintainablity: The Admin should maintain correct project
+  + Security: Users can only assess for functions the role is assigned
