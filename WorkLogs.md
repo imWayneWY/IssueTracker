@@ -28,3 +28,11 @@ I have experiences in DocumentDB like MongoDB, but Relational DB has lots differ
 ## 6th, Jan
 Finish SRS
 Study relational DB.
+
+## 7th, Jan
+use cli to build api project
+```
+dotnet new webapi
+```
+
+using .NET 5
