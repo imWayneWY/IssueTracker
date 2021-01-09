@@ -36,3 +36,7 @@ dotnet new webapi
 ```
 
 using .NET 5
+
+## 8th, Jan
+Use my personal server to build a sql-server service. Use docker to run the server and output port 1433
+Create db： IssueTracker
